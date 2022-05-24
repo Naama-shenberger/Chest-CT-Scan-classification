@@ -1,6 +1,6 @@
 # Chest-CT-Scan-classification
-The project will classify various imaging images such as CT by transfer learning.
-
+It was a project about breast cancer detection using machine learning.
+we classify and diagnose if the patient have cancer or not using AI model.
 As part of the project, a quality CNN network was developed, that includes:
 
 • Augmentation
@@ -13,6 +13,11 @@ As part of the project, a quality CNN network was developed, that includes:
 
 • Execution of Classifier based on features from the network.
 # DATA:
+The data contains 1000 images:
+data split:
+ 7.2 % -val
+ 31.5 % -test
+ 61.3 % -train 
 The data contain 3 chest cancer types 
 1. Adenocarcinoma
 Adenocarcinoma of the lung: Lung adenocarcinoma is the most common form of lung cancer
@@ -36,11 +41,6 @@ cell lung cancers, and is generally linked to smoking.
 
 4. And the last folder is the normal CT-Scan images
 
-
-
-
-
-This is a project about chest cancer detection using machine learning and deep leaning (CNN). 
 
 
 # ResNet-50 Model:
