@@ -13,10 +13,17 @@ As part of the project, a quality CNN network was developed, that includes:
 
 • Execution of Classifier based on features from the network.
 # DATA:
-data split:
-10 % -val
-20 % -test
-70 % -train 
+Data split:
+
+train 70 % 
+
+validation  10 %
+
+test 20%
+
+
+
+
 The data contain 3 chest cancer types 
 1. Adenocarcinoma
 Adenocarcinoma of the lung: Lung adenocarcinoma is the most common form of lung cancer
@@ -71,3 +78,24 @@ The results is reported as the accuracy of each classifier, using the following 
 
 • Plot
 
+# Explanation of project files:
+# Chest CT-Scan images Dataset:
+The data of the 4 departments
+# Chest CT-Scan images Dataset 2:
+The data of the 2 departments
+# Chest CT-Scan images Dataset 3:
+The data of the 3 departments
+# Data
+The model of the 4 departments
+# Data 2
+The model of the 2 departments
+# Data 3
+The model of the 3 departments
+# Data_jpg
+Folder images for visualization in jpg format
+# ResNet50_2.Categories.ipynbg
+Model for the 4 categories: Adenocarcinoma, normal cell
+# ResNet50_3.Categories.ipynb
+Model for the 3 categories: Adenocarcinoma, Large cell carcinoma, Squamous cell carcinoma
+# ResNet50_4.Categories.ipynb
+Model for the 4 categories: Adenocarcinoma, Large cell carcinoma, Squamous cell carcinoma, normal cell
