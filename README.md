@@ -13,11 +13,10 @@ As part of the project, a quality CNN network was developed, that includes:
 
 • Execution of Classifier based on features from the network.
 # DATA:
-The data contains 1000 images:
 data split:
- 7.2 % -val
- 31.5 % -test
- 61.3 % -train 
+10 % -val
+20 % -test
+70 % -train 
 The data contain 3 chest cancer types 
 1. Adenocarcinoma
 Adenocarcinoma of the lung: Lung adenocarcinoma is the most common form of lung cancer
