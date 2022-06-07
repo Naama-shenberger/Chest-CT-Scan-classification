@@ -1,5 +1,5 @@
 # Chest-CT-Scan-classification
-It was a project about breast cancer detection using machine learning.
+This is a project about breast cancer detection using machine learning.
 we classify and diagnose if the patient have cancer or not using AI model.
 As part of the project, a quality CNN network was developed, that includes:
 
