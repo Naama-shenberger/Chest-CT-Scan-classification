@@ -80,22 +80,16 @@ The results is reported as the accuracy of each classifier, using the following 
 
 # Explanation of project files:
 1.  Chest CT-Scan images Dataset:
-The model for the 4 Categories
+The Data for the 4 Categories
 2. Chest CT-Scan images Dataset 2:
-The model for 2 Categories
+The Data for 2 Categories
 3. Chest CT-Scan images Dataset 3:
-The model for 3 Categories
-4. Data:
-The data for 4 Categories
-5. Data 2:
-The data for 2 Categories
-6. Data 3:
-The data for 3 Categories
-7. Data_jpg:
+The Data for 3 Categories
+4. Data_jpg:
 Folder images for visualization in jpg format
-8. ResNet50_2.Categories.ipynbg:
+5. ResNet50_2.Categories.ipynbg:
 Model for the 4 categories- Adenocarcinoma, normal cell
-9. ResNet50_3.Categories.ipynb:
+6. ResNet50_3.Categories.ipynb:
 Model for the 3 categories- Adenocarcinoma, Large cell carcinoma, Squamous cell carcinoma
-10. ResNet50_4.Categories.ipynb:
+7. ResNet50_4.Categories.ipynb:
 Model for the 4 categories- Adenocarcinoma, Large cell carcinoma, Squamous cell carcinoma, normal cell
