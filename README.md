@@ -89,7 +89,7 @@ The Data for 3 Categories
 Folder images for visualization in jpg format
 5. ResNet50_2.Categories.ipynbg:
 Model for the 4 categories- Adenocarcinoma, normal cell
-6. ResNet50_3.Categories.ipynb:
+6. Hyperparameters.Categories.ipynb:
 Model for the 3 categories- Adenocarcinoma, Large cell carcinoma, Squamous cell carcinoma
 7. ResNet50_4.Categories.ipynb:
 Model for the 4 categories- Adenocarcinoma, Large cell carcinoma, Squamous cell carcinoma, normal cell
