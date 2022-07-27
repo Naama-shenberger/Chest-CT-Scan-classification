@@ -44,6 +44,7 @@ The data training set contains 70% of the data
  - large size 115
  - squamous size 155
  - normal size 148
+ 
 Total: 613 images belonging to 4 classes
 
 The data testing set contains 20% of the data
@@ -51,6 +52,7 @@ The data testing set contains 20% of the data
  - large size  51
  - squamous size 90
  - normal size 54
+ 
 Total: 315 images belonging to 4 classes
 
 The data validation set contains 10% of the data
@@ -58,6 +60,7 @@ The data validation set contains 10% of the data
  - large size 21
  - squamous size 15
  - normal size 13
+ 
 Total: 72 images belonging to 4 classes
 
 ## Transfer learning (TL)
