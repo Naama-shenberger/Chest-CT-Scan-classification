@@ -1,5 +1,5 @@
 
-# Image classification
+# Chest CT classification
 
 In this project we classify chest CT images, as part of the project we built a deep neural network (CNN).
 
