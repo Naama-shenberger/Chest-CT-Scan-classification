@@ -1,7 +1,7 @@
 
 # Chest CT classification
 
-In this project we classify chest CT images, as part of the project we built a deep neural network (CNN).
+In this project we classify chest CT images to diagnose types of cancers, as part of the project we built a deep neural network (CNN).
 
 ## Features
 
